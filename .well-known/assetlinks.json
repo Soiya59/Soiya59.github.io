@@ -1,0 +1,13 @@
+[
+  {
+    "relation": [ "delegate_permission/common.handle_all_urls" ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "jp.soiyalab.oyakopoint",
+      "sha256_cert_fingerprints": [
+        "25:C7:1F:47:E4:55:BA:07:C1:0C:9C:B3:16:13:01:2E:2D:F2:5B:7C:DF:75:D6:E1:74:A0:74:97:D3:99:90:3D",
+        "69:69:00:DC:EE:62:4D:27:C1:62:FB:D8:28:00:74:66:47:44:38:BA:45:F8:29:60:70:BA:65:13:79:C1:3B:1B"
+      ]
+    }
+  }
+]
